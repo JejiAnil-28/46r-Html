@@ -30,7 +30,7 @@
     font-weight: bold;
 }   
 .br > img{
-    width: 1275px;
+    width: 100%;
     height: 750px;
     position: relative;
 }
@@ -98,4 +98,5 @@ h3{
     padding-top: 15px;
     padding-bottom: 10px;
     font-size:xx-large;     
+
 }
